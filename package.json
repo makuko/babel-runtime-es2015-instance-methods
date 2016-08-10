@@ -6,7 +6,7 @@
     "name": "Markus Schmidt",
     "email": "m.schmidt@makuko.de"
   },
-  "repository": "makuko/babel-runtime-instance-methods",
+  "repository": "makuko/babel-runtime-es2015-instance-methods",
   "main": "index.js",
   "keywords": [
     "babel-plugin"
