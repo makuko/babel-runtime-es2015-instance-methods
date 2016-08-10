@@ -1,7 +1,7 @@
 {
   "name": "babel-runtime-es2015-instance-methods",
   "description": "Babel plugin to transform ES2015 instance method calls of arrays and strings",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Markus Schmidt",
     "email": "m.schmidt@makuko.de"
