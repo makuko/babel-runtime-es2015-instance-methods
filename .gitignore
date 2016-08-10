@@ -1,0 +1,4 @@
+node_modules
+*.log
+call-instance-method.js
+index.js

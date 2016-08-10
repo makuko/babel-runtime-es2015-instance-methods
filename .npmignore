@@ -1,0 +1,7 @@
+.vscode/
+.gitignore
+call-instance-method.ts
+call-instance-method.d.ts
+Gruntfile.js
+index.ts
+tsconfig.json
