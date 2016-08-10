@@ -29,7 +29,7 @@ export default function({types: t}) {
                 
                 path.replaceWith(
                     t.callExpression(
-                        state.addImport('babel-runtime-instance-methods/call-instance-method', 'default', 'callInstanceMethod'),
+                        state.addImport('babel-runtime-es2015-instance-methods/call-instance-method', 'default', 'callInstanceMethod'),
                         [
                             callee.object,
                             t.stringLiteral(property.name),
